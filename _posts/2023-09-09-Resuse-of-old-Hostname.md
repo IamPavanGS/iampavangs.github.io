@@ -1,7 +1,7 @@
 ---
 title: "Reuse of Hostname error while re-joining to domain in windows 10 & 11"
 date: 2023-08-17 00:00:00 +0800
-catagories: Windows-10-11
+categories: Windows-10-11
 tags: windows-10 hostname windows-11 domain-rejoin reuse-of-hostname
 ---
 ### Error Message: An account with the same name exists in Active Directory. Re-using the account was blocked by security policy.

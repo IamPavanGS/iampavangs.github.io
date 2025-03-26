@@ -98,7 +98,7 @@ theme_mode: # [light | dark]
 cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar: 
+avatar: https://media-hosting.imagekit.io/9aa76592a18c470e/profile_pic.jpg?Expires=1837589810&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=E-PBg6HjOZWc~1PDXMtTSskZQfrH3kmH615cVjmtx4zatCiYKMCg9M2peY7jCc8ZlKCCxaOuJ90m3~nV4tmRhPjrnbRuvEjRswLFc3VErEQQvmwlj3UjphTzZV2Y1zJ9r49tlReU4klKI~7H7yLDs-Zw9mFvesagJiRf5Scm5XXFyLorzACjE4tmmxFmqetw3HsQ-NHWbVcr-s5DlETQVtWEmfA6shhlXDYq9ecBPpPuriDCIpsDMMB3gp5DdxgsNUfEcQDu69U5d2kLC4qoVRlpVSJnYk33zfmgx5nq8ftLczSgMIn7ohT4RtIH3YhzkNNTjPZw7ocM-XkEt00PRw__
 
 # The URL of the site-wide social preview image used in SEO `og:image` meta tag.
 # It can be overridden by a customized `page.image` in front matter.

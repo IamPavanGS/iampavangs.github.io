@@ -4,8 +4,7 @@ icon: fas fa-info-circle
 order: 4
 ---
 
-#> Add Markdown syntax content to file `_tabs/about.md`{: .filepath } and it will show up on this page.
-#{: .prompt-tip }
+
 Welcome to my digital corner! I'm Pavan, a dedicated IT professional with expertise in PowerShell automation and crafting efficient solutions. With a strong tech background, I simplify the complex and enhance user experiences.
 
 My journey began with PowerShell exploration, evolving into creating intuitive GUI apps that streamline processes on Windows servers. These apps save time and boost efficiency.

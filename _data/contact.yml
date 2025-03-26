@@ -3,8 +3,11 @@
 - type: github
   icon: "fab fa-github"
 
-- type: twitter
-  icon: "fa-brands fa-x-twitter"
+#- type: twitter
+#  icon: "fa-brands fa-x-twitter"
+- type: linkedin
+  icon: 'fab fa-linkedin'   # icons powered by <https://fontawesome.com/>
+  url:  'https://linkedin.com/in/pavangurusridhar'                  # Fill with your Linkedin homepage
 
 - type: email
   icon: "fas fa-envelope"

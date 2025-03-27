@@ -1,9 +1,9 @@
 ---  
-title: "Fixing TPM Error While Installing Windows 11 on ESXi or Unsupported Hardware"  
-date: 2023-09-10 00:00:00 +0800  
+title: "Making Wallpaper as default without GPO and giving user freedom to change the wallpaper"  
+date: 2023-09-21 00:00:00 +0800  
 categories: [Windows-10-11]  
-tags: [windows-10, esxi, windows-11, tpm, windows-error]  
-
+tags: [server, windows, powershell, group-policy, wallpapers]  
+---
 # Customizing Windows 11 Default Wallpaper
 
 Windows 11 allows wallpaper customization through two traditional methods:
